@@ -1,0 +1,26 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xml:space="preserve"
+    width="608px"
+    height="564px"
+    version="1.1"
+    style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+    viewBox="0 0 608 564"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style type="text/css">
+            <![CDATA[
+            .fil0 {
+                fill: #581E07;
+                fill-rule: nonzero;
+            }
+            ]]>
+        </style>
+    </defs>
+    <g id="Слой_x0020_1">
+        <metadata id="CorelCorpID_0Corel-Layer"/>
+        <path
+            class="fil0"
+            d="M347 99l87 401 0 1c0,17 -5,33 -15,44 -9,12 -23,19 -38,19l-328 0c-15,0 -28,-7 -38,-19 -9,-11 -15,-27 -15,-44l0 -1c30,-136 59,-271 89,-407l-40 -93 336 0 -32 76 249 -76 6 20 -261 79zm-270 140l280 0 -30 -137 -220 0 -30 137zm284 20l-288 0 -53 243c0,12 4,23 10,30 6,8 14,12 23,12l328 0c9,0 17,-4 23,-12 6,-7 10,-18 10,-30l-53 -243zm-255 -177l222 0 27 -62 -276 0 27 62z"/>
+    </g>
+</svg>
